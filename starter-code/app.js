@@ -33,6 +33,7 @@ function multiply(a, b) { //eslint-disable-line
   let mult = a * b;
   let string = 'The product of ' + a + ' and ' + b + ' is ' + mult + '.'
   return [mult, string];
+  
 }
 
 
